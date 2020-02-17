@@ -1,0 +1,2 @@
+# MyJS
+My javascript code
